@@ -27,10 +27,11 @@ Ky projekt përdor një **aplikacion interaktiv në JavaScript** që mundëson:
 
 ![Tutorial](download.png)
 
-2. Hapni `index.html` në shfletuesin tuaj.
-3. Përdorni **inputet numerike** për të ndryshuar koordinatat e prismës dhe rrafshit prerës (R, A, B, C, D, A1).
-4. Shihni ndryshimet në **canvas-in interaktiv**.
-5. Pikët e prerjes dhe projektimet vizualizohen automatikisht me ngjyra të ndryshme:
+2. Bëjeni folderin PrerjaPrizmit.zip Extract.
+3. Hapni `index.html` në shfletuesin tuaj.
+4. Përdorni **inputet numerike** për të ndryshuar koordinatat e prismës dhe rrafshit prerës (R, A, B, C, D, A1).
+5. Shihni ndryshimet në **canvas-in interaktiv**.
+6. Pikët e prerjes dhe projektimet vizualizohen automatikisht me ngjyra të ndryshme:
    - **E gjelbër:** Pikat origjinale të prismës
    - **E kuqe:** Pikat e prerjes
    - **Blu:** Rrafshi bazë
