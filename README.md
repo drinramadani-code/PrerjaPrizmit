@@ -23,8 +23,10 @@ Ky projekt përdor një **aplikacion interaktiv në JavaScript** që mundëson:
 
 ## Udhëzime Përdorimi
 
-1. ![Tutorial] Filloni duke bere "Download" projektin.
-   ![Tutorial](download.png)
+1. Filloni duke bere "Download" projektin.
+
+![Tutorial](download.png)
+
 2. Hapni `index.html` në shfletuesin tuaj.
 3. Përdorni **inputet numerike** për të ndryshuar koordinatat e prismës dhe rrafshit prerës (R, A, B, C, D, A1).
 4. Shihni ndryshimet në **canvas-in interaktiv**.
